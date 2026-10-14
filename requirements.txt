@@ -1,0 +1,11 @@
+streamlit>=1.50
+pandas
+pydantic
+requests
+langgraph>=0.4
+langchain
+langchain-core>=0.3.49
+langchain-openai
+langchain-community
+python-dotenv
+google-genai
